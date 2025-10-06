@@ -13,7 +13,6 @@ Use this as the entry point for all Week 1 resources.
 
 - **Supporting Materials**
   - Flow diagrams (`FlowOfData.jpeg`)
-  - Appendices (sample practicals, policies, dashboards)
 
 ---
 
