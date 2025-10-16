@@ -1,0 +1,341 @@
+Content
+News⊿
+Download⊿
+Features⊿
+Order⊿
+Screen Shots⊿
+Contacts⊿
+FAQ⊿
+Added ability to use time macros for exporting dbf files via command line.
+Other minor improvements.
+Fixed the issue with dbf file optimization via command line.
+Other minor improvements.
+Added ability to delete fields from multiple dbf files via command line.
+Other minor improvements.
+Fixed the issue with exporting to MySQL script (thanks to Dave Berry for the bug report).
+Other minor improvements.
+Added ability to keep date for exporting DBF files via command line.
+Other minor improvements.
+Improved support for multiple OR conditions in the filter command.
+Other minor improvements.
+Added ability to create DBF files in dBase Level 7 format via Command Line (thanks to Marcel Dumont for the feature request).
+Fixed the issue with leading spaces being trimmed when importing from CSV.
+Other minor improvements.
+Added ability to use macros with current date via Command Line (thanks to Jeff Williams for the feature request).
+Other minor improvements.
+Added ability to generate SQL scripts without INSERT commands (thanks to Marcel Dumont for the feature request).
+Other minor improvements.
+Added the ability to find records that do not contain any blank spaces in a given field (thanks to João Borloth for the feature request).
+Other minor improvements.
+Added the ability to remove duplicates from multiple DBF files.
+Other minor improvements.
+Added the ability to delete empty records via command line.
+Other minor improvements.
+Added the ability to optimize multiple dbf files via command line.
+Other minor improvements.
+Added the ability to export records that are marked as deleted.
+Other minor improvements.
+Improved support for UTF-8 encoding (thanks to Claudia Knoor for the feature request).
+Other minor improvements.
+Fixed the issue with exporting via command line (thanks to Juan Antonio Del Toro Sanchez for the bug report).
+Other minor improvements.
+Added the ability to import from multi-sheet excel tables via command line.
+Other minor improvements.
+Improved national language support (thanks to João Borloth for the feature request).
+Other minor improvements.
+Added the ability to save field names in lower case via command line.
+"Fixed the issue with dialog ""Export""."
+Other minor improvements.
+Added the ability to export to dBase Level 7 format.
+Other minor improvements.
+Fixed the issue with exporting to MySQL script via the command line.
+Other minor improvements.
+"Added the ability to generate SQL script with option ""GO"" via Command Line."
+Other minor improvements.
+Added the ability to hide or show field types in header (thanks to Eliezer Shtalmn for the feature request).
+Other minor improvements.
+Added the ability to save linebreaks in SQL script (thanks to Ferenc Hechler for the feature request).
+Other minor improvements.
+Added the ability to export DateTime fields without seconds.
+Other minor improvements.
+Fixed the issue with selection fields via Command Line.
+Other minor improvements.
+Added the ability to export field structures for DBF files in a folder (thanks to Alex Campbell for the feature request).
+Other minor improvements.
+Added the ability to append fields via Command Line (thanks to Jiri Skryja for the feature request).
+Other minor improvements.
+"Added the ability to save preference for ""Advanced sorting"" dialog."
+Other minor improvements.
+Added resizing of fields in the record view form.
+Added the ability to delete fields via command line.
+Other minor improvements.
+Added resizing of preview window.
+Improved deletion of records via command line.
+Other minor improvements.
+Added a preview for the Open File dialog box.
+Other minor improvements.
+"Added the ability to load fields from a text file for the ""/CREATE"" command."
+Improved performance of the filter command.
+Other minor improvements.
+Added the ability to export ROWID to CSV and Text formats.
+Other minor improvements.
+Added the ability to optimize DBF files via command line.
+Other minor improvements.
+Added the ability to export DBF file structure to HTML format via command line.
+Other minor improvements.
+Fixed the issue with exporting memo fields to JSON format.
+Other minor improvements.
+Improved the exporting performance for numbers (Excel format)
+Other minor improvements.
+Improved exporting of logical fields to XLSX and XLS formats.
+Fixed the issue with log file generation.
+Other minor improvements.
+Improved performance for importing from CSV format.
+Fixed the issue with importing some Excel files.
+Other minor improvements.
+Added the ability to use multiple words for a wide filter via command line.
+Other minor improvements.
+Fixed the issue with edit form generation (thanks to David W Pacey).
+Other minor improvements.
+Added the ability to generate statistics for multiple dbf files.
+Other minor improvements.
+Fixed minor memory leaks.
+Other minor improvements.
+Added the ability to create DBF files via command line.
+Many minor improvements and fixes.
+Fixed the issue with exporting to SQL script.
+Many minor improvements and fixes.
+Added the ability to import DBF file structure from text files.
+Many minor improvements and fixes.
+Added the ability to use in-line filter via command line.
+Improved performance for the Sorting command.
+Many minor improvements and fixes.
+Fixed the issue with exporting large memo fields.
+"Fixed the issue with option ""Startup | Open Last""."
+Many minor improvements and fixes.
+Filter Command: added the ability to match end of field.
+Added the ability to exclude fields via command line.
+Many minor improvements and fixes.
+"Added menu command ""Find Previous""."
+"Fixed the issue with type ""Double""."
+Improved importing of Excel files.
+Many minor improvements and fixes.
+Improved support for Windows 11.
+Fixed the issue with exporting to CSV format.
+Many minor improvements and fixes.
+Fixed the issue with exporting to MS SQL server.
+Many minor improvements and fixes.
+Added the ability to export dbf files into the JSON format.
+"Fixed the issue with option ""Open Last""."
+Many minor improvements and fixes.
+Added the ability to export dbf files into the TSV format.
+Many minor improvements and fixes.
+"Improved performance for the ""Wide Filter"" command."
+Many minor improvements and fixes.
+Added the ability to set range of fields via command line.
+"Fixed the issue with command ""Replace""."
+Fixed the issue with importing from Excel files.
+"Fixed the issue with command ""Hide Deleted""."
+Fixed the issue with exporting to UTF-8 format.
+"Improved exporting for type ""Varchar""."
+Saves the last type for SQL format.
+Improved exporting to SQL Server script.
+Added the ability to open multiple dbf file via command line.
+"Fixed the issue with ""Refresh"" command."
+Many minor improvements and fixes.
+"Fixed the issue with option ""Disable Editor""."
+Added the ability to import multiple dbf files at once.
+"Improved formating for type ""Double""."
+Many minor improvements and fixes.
+Added the ability to remove leading spaces via the command line.
+Fixed the issue with CSV exporting.
+Many minor improvements and fixes.
+Improved performance for the Filter command.
+Saves the path for filter files.
+Many minor improvements and fixes.
+Added new macros for the Replace command.
+Improved Import command for Memo fields.
+Many minor improvements and fixes.
+Fixed the issue with Filter command via command line.
+Improved modification dbf structure.
+Many minor improvements and fixes.
+Improved Pack command for batch processing.
+Improved Filter command for Memo fields.
+Many minor improvements and fixes.
+Added the ability to import PSV files.
+Other minor improvements and fixes.
+Added the ability to use multi-range filter via the command line.
+Supports long delimeter for csv format.
+Improved importing of Excel files.
+Many minor improvements and fixes.
+Extended history list for Wide Filter.
+Fixed the issue with MySQL exporting.
+Many minor improvements and fixes.
+Added the ability to pack only memo fields via the command line.
+Fixed the issue with option /NOHDR.
+Many minor improvements and fixes.
+Improved performance for rename fields.
+Added the ability to export dbf structure to XLSX format.
+Improved Fill command.
+Many minor improvements and fixes.
+Improved modification of DBF file structure.
+Improved importing of Excel format.
+Added option to delete duplicates with keeping last record via command line.
+"Added option ""Contains"" for a Quick Filter."
+Added the ability to limit the amount of records when exporting via command line.
+Added the ability to import TSV files.
+Many minor improvements.
+Added ability to export statistical report via command line.
+Improved Command Line filter.
+Improved Sorting performance for numeric fields.
+Improved exporting memo to HTML format.
+Many minor improvements.
+Added ability to import SDF files.
+Fixed the issue with quotes via command line.
+Improved exporting DBF to Excel format.
+Added ability to append string with Replace command.
+Added ability to use Delete command with filter via command line.
+Many minor improvements.
+Improved transformation character fields to memo.
+Improved wizard for adding fields.
+Fixed the issue with Import command.
+Many minor improvements.
+Fixed the issue with exporting dbf structure to Excel.
+Added the ability to export statistical report to XLSX format.
+Added the ability to sort records with ignore case in the batch mode.
+Added the ability to replace empty fields via command line.
+Many minor improvements.
+Added the ability to import space delimited files via command line.
+Added the ability to rename fields via command line.
+Improved modification dbf structure.
+Fixed the issue with toolbar customization.
+Improved support for Windows 10.
+Many minor improvements.
+Added the ability to generate a command line with selected fields.
+Extended delimiters list for exporting to CSV/Text.
+Improved Pack command in the batch mode.
+Added the ability to remove a range of records via command line.
+Many minor improvements.
+Fixed the issue with importing from CSV with unicode format.
+Added the ability to export dbf file structure via command line.
+Added the ability to export the statistical report to csv format.
+Improved autoformating for exporting to Excel format.
+Improved the Replace command.
+Many minor improvements.
+Added preview for the Append command.
+Improved deleting of multiple records.
+Fixed the issue with the /COLUMNSLIST option.
+Added the ability to export dbf file structure to HTML.
+Many minor improvements.
+Added the ability to reopen dbf files in shared or exclusive mode on the fly.
+Added autoformating for exporting to Excel format.
+"Fixed the issue with ""Open"" dialog."
+Some fixes.
+"Added the ability to combine the command line options ""/FILTER"" and ""/REPLACE"""
+Added the ability to copy memo fields without opening the memo editor.
+Added the ability to append data to dbf files from multi-sheet Excel tables.
+Improved support for Windows 8.1.
+Fixed the issue with exporting dbf to sql
+Many minor improvements.
+Added the ability to import data from multiple files via command line.
+Added the ability to show tabs with full path.
+Supports exporting DBF to CSV with UTF-8 encoding
+Improved preview mode in Windows 8
+Fixed the issue involving the exporting DBF to Oracle script
+Many minor improvements.
+Added the ability to import records from XLSM format.
+Added the ability to sort records via command line.
+Improved exporting memo fields to XML format.
+Fixed the issue involving the replacing of empty values
+Many minor improvements.
+Added the ability to show the physical record number for sorted records.
+Improved the preview memo fields in OEM charset.
+Improved exporting of dbf to MySQL.
+Many minor improvements.
+Added the ability to save the statistical report to html format.
+Improved statistical report for the character fields.
+Improved importing date fields from csv format.
+Fixed the issue concerning the timestamp field.
+Many minor improvements.
+Improved form for the Replace command.
+Added an ability to use a wide filter via the command line.
+Added history list to the Wide Filter dialog.
+Many minor improvements.
+Added an ability to keep the last record in order to delete duplicated records.
+Improved the importing of csv files with utf-8 format.
+Improved command line generation.
+Many minor improvements.
+Added an ability to set the range for character fields.
+Fixed the issue with re-opening memo files.
+Added an ability to select fields in order to delete empty records.
+Added an ability to open multiple dbf files via a command line.
+Many minor improvements.
+Added preview in order to append records from dbf files.
+Improved speed of the append command.
+Improved exporting of dbf to oracle script.
+Many minor improvements.
+Added exporting of statistical report.
+Fixed issue with importing Excel files.
+Improved exporting of dbf to mysql script.
+Improved exporting of dbf to csv.
+Improved replace command.
+Many minor improvements.
+An extended filter supports searching in memo fields.
+Added an ability to fill a DBF file with a filter using the command line.
+An improved toolbar for the Record View mode.
+Improved importing from xlsx to dbf.
+Many minor improvements.
+Added a command line generation for exporting dbf files.
+Improved exporting of dbf to xml.
+Saves the last type for the Import dialog.
+Many minor improvements.
+Added a command line generation feature for importing data.
+Added Wide Filter dialog.
+Improved exporting of dbf to sdf.
+Improved exporting of dbf to rtf.
+Improved Find/Filter form.
+Improved importing from the xlsx format to dbf.
+Improved Undo command.
+Added toolbar customization.
+Saves the path for the import command.
+Improved exporting of dbf to html.
+Added an ability to replace text in all fields.
+Added a print preview feature.
+Improved modification of the dbf file structure.
+Improved exporting of dbf to sql server.
+Improved copying and pasting of records between dbf files with different structures.
+Added an ability to close all tabs except the active one.
+Added the display of memo fields in the grid.
+Added a possibility to export dbf files into the XLSX format (Excel 2007-2010) without MS Excel installed in the system.
+Added a possibility to import xlsx files into the dbf format.
+Added a possibility to recover deleted records from the command line
+Added a LIKE option to the quick filter
+Added a possibility to delete records based on the content of a specific field.
+Added highlighting of the field currently used for sorting.
+Improved importing of Excel files (.xls) to the DBF format.
+Improved sorting for datetime fields.
+Improved statistical report.
+Fixed a bug that occurred while openning a DBF file with a non .dbf extension.
+Many minor improvements.
+Added new search criteria to the quick filter
+Added a possibility to delete duplicates ignoring the case.
+Added a possibility to clean the recent files list.
+Fixed a bug in the statistics command.
+Added importing of Excel files (.xls).
+Fixed a bug that occurred while importing Unicode files (csv format).
+Fixed a bug with setting a filter from the command line.
+Improved export dbf files to Excel files.
+Improved export dbf files to SQL files.
+Added possibility to pack only memo file.
+Added possibility to delete empty records in dbf file.
+Added startup options.
+Improved replacing in memo fields.
+Other minor improvements.
+You can Save\Load queries in the filter form.
+Added exporting dbf files to SDF format.
+Added removing record without pack command.
+Added exporting structure of dbf file to csv format.
+"You can resize the window ""Fields Info""."
+Fixed bug with replace command.
+Supports Windows 7.
+Minor tweaks and improvements.

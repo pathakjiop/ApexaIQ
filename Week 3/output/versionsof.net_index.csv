@@ -1,0 +1,5 @@
+,SDK Installer,SDK Binaries,Runtime Installer,Runtime Binaries,ASP.NET Core Runtime,Windows Desktop Runtime
+Windows,x86 | x64 | Arm64,x86 | x64 | Arm64,x86 | x64 | Arm64,x86 | x64 | Arm64,x86 | x64 |; Hosting Bundle,x86 | x64 | Arm64
+macOS,x64 | ARM64,x64 | ARM64,x64 | ARM64,x64 | ARM64,x64 | ARM64,-
+Linux,Snap and Package Manager,x64 | Arm | Arm64 | Arm32 Alpine | x64 Alpine,Packages (x64),x64 | Arm | Arm64 | Arm32 Alpine | Arm64 Alpine | x64 Alpine,x64 | Arm | Arm64 | x64 Alpine,-
+,Checksums,Checksums,Checksums,Checksums,Checksums,Checksums

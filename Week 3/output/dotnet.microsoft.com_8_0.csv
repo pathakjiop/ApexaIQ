@@ -1,0 +1,5 @@
+OS,Installers
+Package manager instructions,Arm32 | Arm32 Alpine | Arm64 | Arm64 Alpine | x64 | x64 Alpine
+Arm64 | x64,Arm64 | x64
+x64 | x86 | Arm64 | winget instructions,x64 | x86 | Arm64
+dotnet-install scripts,

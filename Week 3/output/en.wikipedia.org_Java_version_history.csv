@@ -1,0 +1,28 @@
+Version,Type,Class file format version[8],Release date,End of public updates (free),End of extended support (paid)
+JDK 1.0,,45[9],23 January 1996,May 1996,—
+JDK 1.1,,45,18 February 1997,October 2002,—
+J2SE 1.2,,46,4 December 1998,November 2003,—
+J2SE 1.3,,47,8 May 2000,March 2006,—
+J2SE 1.4,,48,13 February 2002,October 2008,—
+J2SE 5.0 (1.5),,49,30 September 2004,October 2009,—
+Java SE 6 (1.6),,50,11 December 2006,April 2013 for Oracle December 2018 for Azul[10],December 2016 for Red Hat[11] October 2018 for Oracle[12] December 2027 for Azul[10] March 2028 for BellSoft Liberica[13]
+Java SE 7 (1.7),,51,28 July 2011,July 2015 for Oracle July 2022 for Azul[10] September 2022 for IBM Java SDK[14],June 2020 for Red Hat[11] July 2022 for Oracle[15] December 2027 for Azul[10] March 2028 for BellSoft Liberica[13]
+Java SE 8 (1.8),LTS,52,18 March 2014,April 2019 for Oracle April 2025 for IBM Java SDK[14] November 2026 for Red Hat[11] November 2026 for Azul[10] November 2026 for IBM Semeru Runtimes[16] December 2030 for Eclipse Temurin[17] December 2030 for Amazon Corretto[18],December 2030 for Oracle[4] December 2030 for Azul[10] March 2031 for BellSoft Liberica[13]
+Java SE 9 (1.9),,53,21 September 2017,March 2018,—
+Java SE 10 (1.10),,54,20 March 2018,September 2018,—
+Java SE 11,LTS,55,25 September 2018,April 2019 for Oracle September 2027 for Microsoft Build of OpenJDK[19] October 2024 for Red Hat[11] October 2027 for Eclipse Temurin[17] October 2027 for IBM Semeru Runtimes[16] January 2032 for Amazon Corretto[18] January 2032 for Azul[10],January 2032 for Azul[10] March 2032 for BellSoft Liberica[13] October 2027 for Red Hat[11] January 2032 for Oracle[4]
+Java SE 12,,56,19 March 2019,September 2019,—
+Java SE 13,,57,17 September 2019,March 2020,—
+Java SE 14,,58,17 March 2020,September 2020,—
+Java SE 15,,59,16 September 2020,March 2021,—
+Java SE 16,,60,16 March 2021,September 2021,—
+Java SE 17,LTS,61,14 September 2021,September 2024 for Oracle[4] September 2027 for Microsoft Build of OpenJDK[19] October 2027 for Eclipse Temurin[17] October 2027 for Red Hat[11] October 2027 for IBM Semeru Runtimes[16] October 2029 for Amazon Corretto[18] September 2029 for Azul[10],September 2029 for Oracle[4] March 2030 for BellSoft Liberica[13]
+Java SE 18,,62,22 March 2022,September 2022,—
+Java SE 19,,63,20 September 2022,March 2023,—
+Java SE 20,,64,21 March 2023,September 2023,—
+Java SE 21,LTS,65,19 September 2023,September 2028 for Oracle[4] September 2028 for Microsoft Build of OpenJDK[19] December 2029 for Red Hat[11] December 2029 for Eclipse Temurin[17] December 2029 for IBM Semeru Runtimes[16] October 2030 for Amazon Corretto[18] September 2031 for Azul[10],September 2031 for Oracle[4] March 2032 for BellSoft Liberica[13]
+Java SE 22,,66,19 March 2024,September 2024,—
+Java SE 23,,67,17 September 2024,March 2025 for Oracle March 2025 for Azul[10] March 2025 for IBM Semeru Runtimes[16],—
+Java SE 24,,68,18 March 2025,September 2025,—
+Java SE 25,LTS,69,16 September 2025,September 2030 for Oracle[4] September 2031 for Eclipse Temurin[17] September 2033 for Azul[10],September 2033 for Oracle[4] March 2034 for BellSoft Liberica[13]
+Legend: Unsupported Supported Latest version Future version,,,,,
