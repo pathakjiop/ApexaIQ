@@ -7,7 +7,9 @@ Use this as the entry point for all Week 1 resources.
 
 ## Contents
 - [[Week 1/Contents|Week 1]] 
-- [[Week 2/Contents|Week 2]] 
+- [[Week 2/Contents|Week 2]]
+- [[Week 3/Contents|Week 3]]
+- [[Week 4/Contents|Week 4]]
 
   Full document explaining ApexaiQ fundamentals, ITAM process, data flow, competitors, and key terminologies.
 
