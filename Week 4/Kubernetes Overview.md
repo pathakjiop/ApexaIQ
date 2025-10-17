@@ -49,7 +49,7 @@ Users → [Service] → [Pod] [Pod] [Pod]
 
 ## Simple Example: Running a Website
 
-### Step 1: Tell Kubernetes what to run
+		### Step 1: Tell Kubernetes what to run
 ```yaml
 apiVersion: apps/v1
 kind: Deployment
@@ -110,9 +110,6 @@ kubectl apply -f my-app.yaml
 
 # Check logs
 kubectl logs pod-name
-
-# Get inside a pod
-kubectl exec -it pod-name -- bash
 ```
 
 ### Managing Applications:

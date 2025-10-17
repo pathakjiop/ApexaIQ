@@ -98,34 +98,6 @@
 - Want to use different technologies
 - Have DevOps/SRE support
 
-## Migration Story: From Startup to Big Company
-
-### **Phase 1: Startup** 🚀
-```
-[Monolithic App]
-- 3 developers
-- Simple e-commerce site
-- Quick to build and deploy
-```
-**Choice: Monolithic** - Fast and simple
-
-### **Phase 2: Growing** 📈
-```
-Teams start stepping on each other's code
-Deployments become risky
-Some features need more resources than others
-```
-**Decision: Time to consider microservices**
-
-### **Phase 3: Enterprise** 🏢
-```
-[User Service] [Product Service] [Order Service] [Payment Service]
-- Different teams own each service
-- Can scale popular services independently
-- Use different databases for different needs
-```
-**Choice: Microservices** - Better for scale and team autonomy
-
 ## Simple Decision Guide
 
 ### Ask Yourself:
@@ -144,19 +116,6 @@ Some features need more resources than others
 4. **What's your ops experience?**
    - Limited DevOps knowledge → Monolithic
    - Strong infrastructure team → Microservices
-
-## Common Patterns
-
-### 🎯 **Start with Monolith, Then Split**
-1. Build a monolith first
-2. Learn how your application works
-3. Identify natural boundaries
-4. Extract services gradually
-
-### 🔀 **Hybrid Approach**
-- Keep core business logic together
-- Extract peripheral services first
-- Example: Keep users/orders together, extract notifications
 
 ## Quick Summary
 
